@@ -34,7 +34,7 @@ const datosUsuario = () => {
 const calcularRadio = () => {
 
     //DECLARACION CONSTANTES Y VARIABLES
-    const PI = Math.PI;
+    const PI = 3.1415;
     let radio = prompt("Introduce el radio del area que desees calcular");
 
     //LOGICA:: FORMULA AREA: PI x RADIO^2
